@@ -1,3 +1,6 @@
+**EDIT** : Les versions des librairies du requirements.txt étaient pour certaines très anciennes créant ainsi des conflits. J'ai mis à jour ce fichier avec les versions qui ont fonctionné sur ma machine. En espérant que ça fonctionne chez vous également avec cette config.
+
+
 # **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild* 
 ### A commercial version of Wav2Lip can be directly accessed at https://sync.so
 Are you looking to integrate this into a product? We have a turn-key hosted API with new and improved lip-syncing models here: https://sync.so/
